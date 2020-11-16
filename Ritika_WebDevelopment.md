@@ -1,5 +1,5 @@
-### I am Ritika Agrawal and I opted for Web Development for intern. <br>
-<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605570428/bow_h2olyt.png" width="20%" height="20%" align="left">
+#### I am Ritika Agrawal and I opted for Web Development for intern. 
+<img src="https://res.cloudinary.com/djix6uusx/image/upload/v1605570428/bow_h2olyt.png" width="30%" height="30%" align="left"> <br>
 
 ## Current Web Development Skills 
 1. HTML
